@@ -10,6 +10,7 @@ int main()
     int a=12,b=32;
     int c=a+b;
     cout<<"sum : "<<c<<endl;
+    cout<<"product : "<<a*b<<endl;
     
     return 0;
 }
